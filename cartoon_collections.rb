@@ -19,3 +19,4 @@ def list_dwarves(array)
   newArray.each do |everyone|
   puts "#{everyone}"
 end
+end
